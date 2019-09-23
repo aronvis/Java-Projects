@@ -1,4 +1,4 @@
-package vischjag_CSCI201L_Assignment4;
+package src_files;
 
 public class BooleanObj 
 {

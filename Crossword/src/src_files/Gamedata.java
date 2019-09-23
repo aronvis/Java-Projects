@@ -1,4 +1,4 @@
-package vischjag_CSCI201L_Assignment4;
+package src_files;
 import java.util.HashMap;
 public class Gamedata 
 {

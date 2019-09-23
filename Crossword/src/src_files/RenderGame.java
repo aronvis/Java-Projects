@@ -1,4 +1,4 @@
-package vischjag_CSCI201L_Assignment4;
+package src_files;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -15,7 +15,7 @@ public class RenderGame
 	{
 		System.out.println("Reading random game file.");
 		this.game = game;
-		selectFile("../vischjag_CSCI201L_Assignment4/gamedata");
+		selectFile("../Crossword/gamedata");
 	}
 	private void selectFile(String directory)
 	{
